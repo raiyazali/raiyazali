@@ -13,7 +13,7 @@
 ✉️ &nbsp;You can shoot me an email at Raiyazali087@gmail.com! I'll try to respond as soon as I can.\
 
 
-<img alt="Night Coding" src="https://github.com/raiyazali/raiyazali/blob/main/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://github.com/raiyazali/raiyazali/blob/main/giphy.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
