@@ -1,6 +1,6 @@
 
 
-<img alt="Night Coding" src="https://github.com/raiyazali/raiyazali/blob/main/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Amit</h2>
+<img alt="Night Coding" src="https://github.com/raiyazali/raiyazali/blob/main/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Raiyaz</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Raiyaz -->
 
