@@ -42,7 +42,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/raiyazali/"><img src="https://img.shields.io/badge/-Raiyaz%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:raiyazali087@gmail.com"><img src="https://img.shields.io/badge/-raiyazali087@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:info.raiyazali@gmail.com"><img src="https://img.shields.io/badge/-raiyazali087@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/online.raiyaz/"><img src="https://img.shields.io/badge/-@online.raiyaz__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100008804677602"><img src="https://img.shields.io/badge/-@raiyazahmadkhan-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
